@@ -1,6 +1,13 @@
 # Sistema de Autenticación con Interfaz
 
+[Live DEMO](https://devspaces-5ncckm1d8-leidiths-projects.vercel.app/)
+
 Un sistema completo de registro y login con validaciones, animaciones y dashboard personalizado
+
+![Vista previa del sistema](src/assets/index.png)
+
+![Dashboard](src/assets/dashboard.png)
+
 
 ## Zod
 Es una **librería de validación de esquemas** para TypeScript y JavaScript que permite:
